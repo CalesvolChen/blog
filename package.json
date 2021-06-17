@@ -1,0 +1,9 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "repository": "https://github.com/CalesvolChen/blog.git",
+  "author": "朱原辰 <825913109@163.com>",
+  "license": "MIT"
+}

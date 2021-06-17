@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\PowerShell\7;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\Git\cmd;C:\Program Files\PowerShell\7\;C:\Program Files\dotnet\;D:\jdk1.8.0.121\bin;C:\Program Files (x86)\Yarn\bin\;C:\Users\Admin\scoop\shims;C:\Python\Python37\Scripts\;C:\Python\Python37\;C:\Python\Python38\Scripts\;C:\Python\Python38\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Program Files\JetBrains\PyCharm 2020.3\bin;C:\Program Files\JetBrains\WebStorm 2020.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\bin;C:\Users\Admin\AppData\Roaming\npm;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\bins;C:\Users\Admin\AppData\Local\Yarn\bin;C:\Users\Admin\AppData\Local\nvs\
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137009:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (internal/streams/readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
